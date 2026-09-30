@@ -1,4 +1,4 @@
-﻿namespace _26031018
+﻿namespace _26031018_sulljiun_class
 {
     internal class Program
     {
